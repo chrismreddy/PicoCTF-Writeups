@@ -18,9 +18,11 @@ Python scripts are invoked kind of like programs in the Terminal... Can you run 
 
 Downloaded the script into the shell by using the wget command. The name of the script is ende.py.
 When I ran "python ende.py" the following line returns:
+
 Usage: ende.py (-e/-d) [file]
+
 It looks like -e is the switch for encrypt, and -d is the switch for decrypt.
-So, running python ende.py -d flag.txt.en and putting in the provided password gives us the flag.
+So, running "python ende.py -d flag.txt.en" and putting in the provided password gives us the flag.
 
 ## Flag
 

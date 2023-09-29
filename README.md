@@ -1,1 +1,1 @@
-"# PicoCTF-Write ups" 
+"# PicoCTF-Writeups" 
